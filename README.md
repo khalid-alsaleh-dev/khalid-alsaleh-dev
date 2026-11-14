@@ -30,10 +30,10 @@ I build backend services and cross-platform applications, with a focus on mainta
 
 ## Open-source references
 
-I keep these upstream forks as reference collections while learning from established framework and app patterns. They remain attributed to their original maintainers.
+These upstream forks are references for studying established Flutter app patterns and NestJS ecosystem tooling. Each repository retains its original maintainers and attribution.
 
-- [NestJS framework](https://github.com/khalid-alsaleh-dev/nest) — fork of [nestjs/nest](https://github.com/nestjs/nest).
-- [Flutter samples](https://github.com/khalid-alsaleh-dev/samples) — fork of [flutter/samples](https://github.com/flutter/samples).
+- **Flutter:** [Flutter samples](https://github.com/khalid-alsaleh-dev/samples), [LocalSend](https://github.com/khalid-alsaleh-dev/localsend), [AppFlowy](https://github.com/khalid-alsaleh-dev/AppFlowy), [Ente](https://github.com/khalid-alsaleh-dev/ente), [Spotube](https://github.com/khalid-alsaleh-dev/spotube), [Gopeed](https://github.com/khalid-alsaleh-dev/gopeed).
+- **NestJS:** [Nest framework](https://github.com/khalid-alsaleh-dev/nest), [Nest CLI](https://github.com/khalid-alsaleh-dev/nest-cli), [GraphQL integration](https://github.com/khalid-alsaleh-dev/graphql).
 
 ## Portfolio
 
